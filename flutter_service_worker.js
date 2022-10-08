@@ -74,7 +74,7 @@ const RESOURCES = {
 "assets/assets/images/solarSystem.png": "3aebbda7d767818c65815b93c13a7e16",
 "assets/assets/images/summary_results.png": "85261cac086f4cedaad6159b3a7a7f44",
 "assets/assets/images/sun-burst-chart.png": "816734d435f3229010a541289e594191",
-"assets/assets/images/synpulse8_logo.png": "5c74e28f942cc6a1738add59e4acb9c2",
+"assets/assets/images/synpulse8_logo.png": "4f4e9f85e79b95d202270c2576c3f7ec",
 "assets/assets/images/traffic_monitoring_system_img_1.png": "1f0e342e89cee63632507b8be0c4e6fc",
 "assets/assets/images/traffic_monitoring_system_img_2.png": "a64f9015357cadb16c0e3d22bb840d01",
 "assets/assets/images/web-scraping.png": "0d5d05863937340a32b2888cafe04c35",
@@ -95,9 +95,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a6bea3d9eb5b358d29aa3c0a08289c84",
-"/": "a6bea3d9eb5b358d29aa3c0a08289c84",
-"main.dart.js": "061d5821bf71c11d1a030e7c9a64bbda",
+"index.html": "2ff2cd0b156aa209f9b700f08825d7b2",
+"/": "2ff2cd0b156aa209f9b700f08825d7b2",
+"main.dart.js": "2d88c20d5e6d2a3dcbf1e3f407134cb3",
 "manifest.json": "49a22f792e4d0d563ec5ca60b4a07449",
 "version.json": "70c0b903d93d3c838f7fcb0a4b835193"
 };
